@@ -1,4 +1,4 @@
-# Automatically trading signal generation
+# Automatic trading signal generation
 
 ## Support and Resistance Trendlines
 https://github.com/user-attachments/assets/ca4a551c-c2f1-42e4-9340-caf6e3f7281b
